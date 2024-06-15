@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Netfilm Clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
-  },
-  {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " Replicated the sleek movie streaming website using HTML and CSS.",
+    url: "https://thirza-12.github.io/Netfilm-Clone/",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://thirza-12.github.io/Portfolio/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Flavour Fusion",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Flavour Fusion: A vibrant website built with React, HTML, and CSS to explore and share unique",
+    url: "https://thirza-12.github.io/Flavour-Fusion/",
+  },
+  {
+    title: "Weather App",
+    description:
+      "A weather application built with HTML, CSS, and JavaScript, integrating OpenWeatherMap and Unsplash APIs for real-time weather data and dynamic city images.",
+    url: "https://thirza-12.github.io/Weather-App/",
   },
 ];
 
