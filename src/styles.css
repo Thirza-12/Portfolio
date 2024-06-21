@@ -124,28 +124,4 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
-@media (max-width: 400px) {
-  h1 {
-    font-size: 2rem;
-  }
 
-  h2 {
-    font-size: 1rem;
-  }
-
-  h3 {
-    font-size: 0.8rem;
-  }
-
-  p.large {
-    font-size: 16px;
-  }
-
-  p {
-    font-size: 12px;
-  }
-
-  section.padding {
-    padding: 1rem 0;
-  }
-}
